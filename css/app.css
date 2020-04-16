@@ -60,6 +60,9 @@ input[type="submit"] , textarea {
 }
 footer{
     text-align: center;
-    position: relative;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 10px;
 }
 
