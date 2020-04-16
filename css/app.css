@@ -1,0 +1,23 @@
+#ubtlogo {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+body{
+    background-color: #7fffd4;
+}
+
+#paragrafi {
+    color: red;
+    
+}
+
+#loginform {
+    background-color: blue;
+    margin: 500px;
+}
+
+footer{
+    text-align: center;
+}
+
